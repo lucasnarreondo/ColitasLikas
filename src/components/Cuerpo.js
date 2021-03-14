@@ -56,7 +56,7 @@ function Pinga() {
 
     replaceFeedbackMessage(newFeedbackMessage);
     
-  }
+  } 
 
   return (
     <>
